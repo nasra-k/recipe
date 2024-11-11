@@ -5,4 +5,4 @@ line 2 changed remotely
 # I got it from a friend.
 last line changed locally
 ### This is a REMOTE change :O
-Testing merge abort (remote)
+Testing merge abort
