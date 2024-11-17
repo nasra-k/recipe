@@ -15,3 +15,5 @@ Testing merge abort
 **I would like to bold a line**
 
 I would also like to *italicize* something
+
+![Berry Smoothie](recipe.jpg "Berry Smoothie")
