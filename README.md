@@ -11,3 +11,7 @@ Testing merge abort
 1. Creating an ordered list - item #1
 2. Creating an ordered list - item #2
 3. Creating an ordered list - item #3
+
+**I would like to bold a line**
+
+I would also like to *italicize* something
