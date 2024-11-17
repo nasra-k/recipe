@@ -8,3 +8,6 @@ last line changed locally
 Testing merge abort
 # Creating a Level 1 header
 ### Creating a Level 3 header
+1. Creating an ordered list - item #1
+2. Creating an ordered list - item #2
+3. Creating an ordered list - item #3
